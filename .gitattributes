@@ -1,1 +1,2 @@
-*.md linguist-language=Dart
+* linguist-vendored
+*.js linguist-vendored=false
