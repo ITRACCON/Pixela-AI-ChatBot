@@ -1,16 +1,29 @@
-# pixela
+<p align="center"><img src="https://i.ibb.co/bbFvNFC/Logo-GIT.png" alt="Logo-GIT"> </p>
 
-A new Flutter project.
+<p align="center">
+  <img src="https://img.shields.io/badge/Flutter-v3.22.0-blue?logo=flutter">
+  <img src="https://img.shields.io/badge/Version-1.0-purple">
+  <img src="https://img.shields.io/badge/License-MIT-success">
+</p>
 
-## Getting Started
+## About 
+By utilizing the Flutter framework and GPT 3.5, Pixela provides high performance, accurate answers, and a user-friendly interface for users. With Pixela, users can access a wide range of information and services, making their lives more convenient and productive.
 
-This project is a starting point for a Flutter application.
+## Screenshots
+<p align="center">
+ <img src="https://i.ibb.co/YWJwqbb/1.png" alt="1" border="0">
+<img src="https://i.ibb.co/6ZQtBSD/2.png" alt="2" border="0">
+<img src="https://i.ibb.co/g4zdQbj/3.png" alt="3" border="0">
+</p>
 
-A few resources to get you started if this is your first Flutter project:
+## Tech Stack
++ [Flutter](https://flutter.dev/) - Framework
++ [Dart](https://dart.dev/) - Language
++ [Isar](https://isar.dev/) - Database
++ [Google Fonts](https://fonts.google.com/) - Fonts
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## Developers
++ [ITRacoon (Nikita Kuzmitch)](https://github.com/ITRACCON)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## License
+Is open-sourced software licensed under the MIT license.
